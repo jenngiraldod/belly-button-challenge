@@ -5,7 +5,9 @@
 
 ### How to Use the Interactive Features
 **- Select a Subject ID:** Use the dropdown menu to choose a test subject.
+
 **- View Demographic Info:** Displays metadata about the selected subject.
+
 **- Analyze Bacteria Cultures:**
 - Bar Chart: Shows the top 10 most common bacteria found.
 - Bubble Chart: Displays the distribution of bacterial species per sample.

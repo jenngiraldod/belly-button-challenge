@@ -14,8 +14,11 @@
 
 ### Key Technologies and Libraries
 **- D3.js:** Used to fetch and manipulate JSON data dynamically.
+
 **- Plotly.js:** Creates bar and bubble charts for data visualization.
+
 **- Bootstrap:** Provides styling and responsive design.
+
 **- API Data Source:** Data is retrieved from an Amazon S3-hosted JSON file
 
 ### Insights from the Analysis

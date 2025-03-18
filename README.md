@@ -11,6 +11,11 @@
 **- Analyze Bacteria Cultures:**
 - Bar Chart: Shows the top 10 most common bacteria found.
 - Bubble Chart: Displays the distribution of bacterial species per sample.
+  
+![Screenshot 2025-03-17 at 10 10 24 PM](https://github.com/user-attachments/assets/81ccc248-d866-4ef3-b76b-64488d253d25)
+
+![Screenshot 2025-03-17 at 10 10 40 PM](https://github.com/user-attachments/assets/41e9d91e-2373-4b3f-9bce-6bb3c58fe376)
+
 
 ### Key Technologies and Libraries
 **- D3.js:** Used to fetch and manipulate JSON data dynamically.
